@@ -53,7 +53,7 @@ rails server
 
 Padrão local -> `http://localhost:3000/`
 
-## AWS EC2 - Amazon Elastic Beanstalk
+## AWS EC2
 Disponível em:
 [API](http://)
 
