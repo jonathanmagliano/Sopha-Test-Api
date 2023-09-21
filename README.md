@@ -53,10 +53,6 @@ rails server
 
 Padrão local -> `http://localhost:3000/`
 
-## AWS EC2
-Disponível em:
-[API](http://)
-
 ## Testes nativos em Rails
 obs.: testes de unidade para os modelos, testes funcionais para os controladores e testes de integração para verificar o comportamento geral das rotas e funcionalidades. Os testes de unidade podem ser criados na pasta test/models, os testes funcionais na pasta test/controllers e os testes de integração na pasta test/system.
 
